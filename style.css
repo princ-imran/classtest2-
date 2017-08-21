@@ -1,0 +1,40 @@
+* {
+    margin: 0 auto;
+    padding: 0
+}
+
+.my-work {
+    height: 800px;
+}
+
+header {
+    background: #000 none repeat scroll 0 0;
+    color: #fff;
+    text-align: center;
+}
+
+.show-result {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.form-image {
+    margin: 15px 0;
+}
+
+footer {
+    background: #ddd none repeat scroll 0 0;
+    font-size: 19px;
+    height: 60px;
+    width: 100%;
+}
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
+
+footer {}
